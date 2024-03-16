@@ -8,7 +8,7 @@ tags: [help,racing,sims,AC,vms, tracks, multiplayer, single player]
 
 
 ## Changing Tracks Multiplier / Single Player
-Changing tracks on single player is a lot more time intensive and indepth so it is recommended that you use multiple server to seperate players
+Changing tracks on single player is a lot more time intensive and indepth if not already setup so it is recommended that you use multiple servers to seperate players if needed
 
 ## Multiplayer
 1. First stop the server from running and make sure no Pods are currently connected to it
